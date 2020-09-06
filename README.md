@@ -1,2 +1,2 @@
-# ConwaysGameOfLifeIn
+# Conway's Game Of Life In...
 Conway's Game Of Life implemented in various programming languages
